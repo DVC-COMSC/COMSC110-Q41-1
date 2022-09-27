@@ -21,5 +21,5 @@ int main()
         // Your code 
         //************************
         
-        cout << area;
+        cout << area << endl;
 }
